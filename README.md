@@ -13,3 +13,4 @@
     [2]7.57cm
     ask:[1]
     [1]8.90cm
+![](https://github.com/ypwhs/smartparking/blob/master/screen1.png)
