@@ -1,0 +1,21 @@
+C:\Users\Administrator\documents\visual studio 2010\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\smartparking.Form1.resources
+C:\Users\Administrator\documents\visual studio 2010\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\smartparking.Properties.Resources.resources
+C:\Users\Administrator\documents\visual studio 2010\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\smartparking.csproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\smartparking.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\smartparking.exe
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\smartparking.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\smartparking.exe
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\smartparking.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\WindowsFormsApplication2\smartparking\bin\Debug\smartparking.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\WindowsFormsApplication2\smartparking\obj\x86\Debug\smartparking.exe
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\WindowsFormsApplication2\smartparking\obj\x86\Debug\smartparking.pdb
+\\psf\Home\Desktop\smartparking\smartparking\bin\Debug\smartparking.exe.config
+\\psf\Home\Desktop\smartparking\smartparking\obj\x86\Debug\smartparking.exe
+\\psf\Home\Desktop\smartparking\smartparking\obj\x86\Debug\smartparking.pdb
+\\psf\Home\Desktop\smartparking\smartparking\bin\Debug\smartparking.exe
+\\psf\Home\Desktop\smartparking\smartparking\bin\Debug\smartparking.pdb
+\\psf\Home\Desktop\smartparking\smartparking\obj\x86\Debug\ResolveAssemblyReference.cache
+\\psf\Home\Desktop\smartparking\smartparking\obj\x86\Debug\smartparking.Form1.resources
+\\psf\Home\Desktop\smartparking\smartparking\obj\x86\Debug\smartparking.Properties.Resources.resources
+\\psf\Home\Desktop\smartparking\smartparking\obj\x86\Debug\GenerateResource.read.1.tlog
+\\psf\Home\Desktop\smartparking\smartparking\obj\x86\Debug\GenerateResource.write.1.tlog
