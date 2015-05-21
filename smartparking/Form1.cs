@@ -146,7 +146,6 @@ namespace smartparking
             String rec = serialPort1.ReadLine();
             label1.Text += rec;
             if (label1.Text.Length > 200) label1.Text = "";
-            Send(rec + "\n", client);
             Regex regex = new Regex(@"\[(\d*)\](.*)cm");
             MatchCollection mc = regex.Matches(rec);
             try
@@ -156,6 +155,7 @@ namespace smartparking
                 reg = mc[0].Groups[2].Value;
                 double d = Convert.ToDouble(reg);
                 juli[id - 1] = d;
+                Send(rec + "\n", client);
             }catch(Exception ex)
             {
 
