@@ -139,7 +139,7 @@ namespace smartparking
         }
         Color control;
 
-        double[] juli = { 0, 0 };
+        double[] juli = { 0, 0, 0, 0 };
 
         private void serialPort1_DataReceived(object sender, SerialDataReceivedEventArgs e)
         {
@@ -162,7 +162,7 @@ namespace smartparking
             }
 
             String x = "";
-            int i; for (i = 0; i < 2; i++)
+            int i; for (i = 0; i < 4; i++)
             {
                 x += (i + 1) + "号车数据:" + juli[i] + "\n";
             }
@@ -177,6 +177,13 @@ namespace smartparking
                 trackBar2.Value = (int)juli[1];
                 if (trackBar2.Value < 7) trackBar2.BackColor = Color.Red;
                 else trackBar2.BackColor = control;
+                trackBar3.Value = (int)juli[2];
+                if (trackBar3.Value < 7) trackBar3.BackColor = Color.Red;
+                else trackBar3.BackColor = control;
+                trackBar4.Value = (int)juli[3];
+                if (trackBar4.Value < 7) trackBar4.BackColor = Color.Red;
+                else trackBar4.BackColor = control;
+
             }
             catch (Exception ex)
             { }
